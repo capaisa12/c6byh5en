@@ -1,0 +1,2 @@
+class InivitadosController < ApplicationController
+end
